@@ -21,7 +21,7 @@ export default function Home() {
       >
         <Stack>
           <div>
-            <p>Welcome to Tony's page</p>
+            <p>Welcome to Tony&apos;s page</p>
           </div>
           <div className="projectDiv">
             <h1>{pstart}</h1>
